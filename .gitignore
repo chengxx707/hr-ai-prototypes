@@ -1,0 +1,24 @@
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Archives & media
+*.zip
+*.7z
+*.rar
+*.mp4
+
+# Editors
+.vscode/
+.idea/
+
+# Office temp
+~$*
